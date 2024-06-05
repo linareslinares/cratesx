@@ -1,0 +1,8 @@
+won_item: "&e{userName} &aCongratulations you won&e {itemName}"
+won_alert: "&6{userName} &awon a item&7:&e {itemName} &ain the crate&7:&e {crateName}."
+no_keys: "&cYou don't have any more keys."
+keyall_msg: "&eYou have received: {amount} key(s) for the crate: {crateName}."
+keyallsend: "&eSent {amount} keys for the crate: {crateName} to all users."
+webhook_url: []
+banned_list:
+ "- @everyone"
