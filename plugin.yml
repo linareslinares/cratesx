@@ -1,0 +1,15 @@
+name: Crates-X
+api: 5.0.0
+version: 1.0
+main: linareslinares\Crates
+author: "LinaresFunado [YT: @linareslinares]"
+
+permissions:
+  crate.command.use:
+    default: op
+  key.command.use:
+    default: op
+  keyall.command.use:
+    default: op
+  remove.crate.npc:
+    default: op
